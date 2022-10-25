@@ -1,0 +1,44 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+#carouselExampleIndicators {
+    width: 80%;
+    margin: 0 auto;
+}
+.carousel-inner{
+    position: relative;
+    
+    margin-bottom: 50px;
+}
+
+.carousel-item h1{
+    position: absolute;
+    color: purple;
+    top: 30%;
+    width: 50%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.row{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.footer {
+    padding: 15px;
+    background-color: plum;
+    color: purple;
+  }
+
+  .footer{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+ 
